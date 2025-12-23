@@ -337,5 +337,3 @@ ISC
 ## Support
 
 For issues or questions, please check the project files or review the API documentation above.
-#   c o n t e c - a s s i g n m e n t  
- 
